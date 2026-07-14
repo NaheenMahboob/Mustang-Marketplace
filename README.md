@@ -2,7 +2,7 @@
 
 ## About This Project
 
-Mustang Marketplace was developed as a group project for **CS3307 (Group 49)** —
+Mustang Marketplace was developed as a group project for **CS3307 - Objected-Oriented Design and Analysis** —
 a terminal-based (ncurses) online marketplace application with a C++ client,
 an HTTP API server, and a SQLite-backed data layer. Development was originally
 hosted on Western's GitLab; this repo was recreated from local project files
